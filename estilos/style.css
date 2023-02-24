@@ -17,3 +17,7 @@ main{
 h1,h2{
     color: rgb(174, 107, 107);
 }
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
